@@ -308,6 +308,8 @@
       "quickSearch": 1,
       "filterable": 0
     },
+        {"key": "csp_XYQHiker_戏曲多多","name":"🎻戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/戏曲多多.json"},
+
     {"key":"瓜子","name":"🍉瓜子┃弹幕","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
     {"key":"文才","name":"🌺文才┃弹幕","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
     {"key":"糯米","name":"🍓糯米┃弹幕","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
@@ -470,3 +472,4 @@
   ]
 
 }
+
