@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;e7c6b481d880ce98ced16bd11d936e71",
+  "spider": "https://pan.qingyuji.cn/f/jExrFV/o.png;md5;f2cc89bbc9798bde7d06a28c3cc74803",
   "sites": [
     {"key":"豆瓣","name":"🤓豆瓣影视","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
      {
@@ -468,4 +468,5 @@
     {"name":"bdys","hosts":["bytetos.com", "byteimg.com", "bytednsdoc.com", "pstatp.com"],"regex":["/tos-cn"],"exclude":[".m3u8"]},
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
+
 }
