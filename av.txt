@@ -1,0 +1,232 @@
+{
+  "spider": "./fty.jar;md5;e7c6b481d880ce98ced16bd11d936e71",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "sites": [
+    {
+      "key": "豆",
+      "name": "豆瓣影视",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+     {
+      "key": "🔵搜爱",
+      "name": "🔵搜爱",
+      "type": 1,
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵森林",
+      "name": "🔵森林",
+      "type": 1,
+      "api": "http://slapibf.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵九一",
+      "name": "🔵九一",
+      "type": 1,
+      "api": "https://91av.cyou/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵爱克",
+      "name": "🔵爱克",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵越南",
+      "name": "🔵越南",
+      "type": 1,
+      "api": "https://vnzyz.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵百花",
+      "name": "🔵百花",
+      "type": 1,
+      "api": "https://bhziyuan.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵小鸡",
+      "name": "🔵小鸡",
+      "type": 1,
+      "api": "https://api.xiaojizy.live/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵奥因",
+      "name": "🔵奥因",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+      {
+      "key": "🔵鲨鱼",
+      "name": "🔵鲨鱼",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+      {
+      "key": "🔵湿乐",
+      "name": "🔵湿乐",
+      "type": 1,
+      "api": "https://xxavs.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+      {
+      "key": "🔵优异",
+      "name": "🔵优异",
+      "type": 1,
+      "api": "https://a.uezy.pw/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵仓库",
+      "name": "🔵仓库",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }, 
+     {
+      "key": "🔵大奶",
+      "name": "🔵大奶",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }, 
+   {
+      "key": "🔵老色",
+      "name": "🔵老色",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   {
+      "key": "🔵番茄",
+      "name": "🔵番茄",
+      "type": 1,
+      "api": "https://fqzy4.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   {
+      "key": "🔵玉兔",
+      "name": "🔵玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵那香",
+      "name": "🔵那香",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵细肯",
+      "name": "🔵细肯",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "🔵杏吧",
+      "name": "🔵杏吧",
+      "type": 1,
+      "api": "https://xingba222.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+      {
+      "key": "🔵番号",
+      "name": "🔵番号",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+      {
+      "key": "🔵滴滴",
+      "name": "🔵滴滴",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+      {
+      "key": "🔵一五",
+      "name": "🔵一五",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+      {
+      "key": "🔵乐播",
+      "name": "🔵乐播",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+      {
+      "key": "🔵吉坤",
+      "name": "🔵吉坤",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ]
+}
