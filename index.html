@@ -1,70 +1,43 @@
+作者：知乎用户
+链接：https://www.zhihu.com/question/640240151/answer/3370063098
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 <!DOCTYPE html>
-
 <html lang="en">
-
-
 <head>
-
-
-    <meta charset="UTF-8">
-
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-    <title>File List</title>
-
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>目录读取</title>
 </head>
-
-
 <body>
+  <!-- 使用 type="file" 和 webkitdirectory 实现选择目录 -->
+  <input type="file" id="fileInput" webkitdirectory>
 
+  <div id="output"></div>
+  <script>
+    (function () {
+      /** @type {HTMLInputElement} */
+      const fileInput = document.querySelector('#fileInput');
 
-    <ul id="fileList"></ul>
+      /** @type {HTMLPreElement} */
+      const output = document.querySelector('#output');
 
+      fileInput.addEventListener('change', () => {
+        // 通过files获取选择的文件列表
+        const list = fileInput.files;
+        if (!list) {
+          return;
+        }
 
-    <script>
-
-
-        fetch('/files')
-
-
-            .then(response => response.json())
-
-
-            .then(files => {
-
-
-                const fileList = document.getElementById('fileList');
-
-
-                files.forEach(file => {
-
-
-                    const li = document.createElement('li');
-
-
-                    li.textContent = file;
-
-
-                    fileList.appendChild(li);
-
-
-                });
-
-
-            })
-
-
-            .catch(error => console.error('Error fetching files:', error));
-
-
-    </script>
-
-
+        // 输出文件名
+        Array.from(list).forEach((file) => {
+          const div = document.createElement('div');
+          div.innerText = file.name;
+          output.appendChild(div);
+        });
+      });
+    })()
+  </script>
 </body>
-
-
 </html>
-
